@@ -116,6 +116,7 @@ void setup()
   pinMode(echoPin2, INPUT);                            // Sets the echoPin as Input  
   pinMode(IR,INPUT);                                   // Sets the IR pin as Output
 }  
+
  
 void loop()  
 {  
